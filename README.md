@@ -1,3 +1,3 @@
 # Amazon-clone-web
-# Only html and css use
-# A clone web Just for  practicing Code
+<h3> Only html and css use</h3>
+<h3>A clone web Just for  practicing Code</h3>
